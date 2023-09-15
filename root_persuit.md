@@ -13,4 +13,4 @@ Then I copied it again and used the command `cat > /etc/shadow` and I pasted the
 
 Since now they both have the same hash the **password for root is also admin**. Now i logged into rootand got the flag from /root/root.txt
 # Flag Found
-p3nt35t{y3s_th4t_1s_sh4d0w}
+`p3nt35t{y3s_th4t_1s_sh4d0w}`
